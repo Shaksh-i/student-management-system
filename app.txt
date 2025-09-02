@@ -1,1 +1,4 @@
-"def add_student(): # updated in main" 
+def add_student():  # this was in main
+    # code to add student
+def delete_student():  # this was in delete-student-feature
+    # code to delete student
