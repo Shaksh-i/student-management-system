@@ -1,0 +1,5 @@
+"def add_student():" 
+"    # Function to add a new student record" 
+"    name = input('Enter student name: ')" 
+"    age = input('Enter student age: ')" 
+"    print(f'Student {name}, age {age}, added successfully')" 
