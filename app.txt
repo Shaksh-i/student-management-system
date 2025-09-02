@@ -3,3 +3,6 @@
 "    name = input('Enter student name: ')" 
 "    age = input('Enter student age: ')" 
 "    print(f'Student {name}, age {age}, added successfully')" 
+"" 
+"def delete_student():" 
+"    # code to delete student" 
